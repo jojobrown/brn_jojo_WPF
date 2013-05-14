@@ -19,5 +19,7 @@ alert("How many bags used" + c  + "bags");
 
 console.log(c + "bags")
 
+//wow this is fun 
+
 
 
