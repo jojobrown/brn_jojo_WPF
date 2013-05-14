@@ -9,7 +9,7 @@
 var c = ("how many bags used");
 var c = 3  * 7  ;
  
-prompt("Enter answer for 3 * 7")
+var product = prompt("Enter answer for 3 bags x 7 hours")
 
 console.log(c);
 
