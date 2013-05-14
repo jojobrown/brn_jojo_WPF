@@ -8,8 +8,10 @@
 
 var c = ("how many bags used");
 var c = 3  * 7  ;
-console.log(c);
+ 
+prompt("Enter answer for 3 * 7")
 
+console.log(c);
 
 
 
