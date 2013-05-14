@@ -29,7 +29,9 @@ var averageAppointment = (day1 + day2 + day3 + day4 + day5 + day6 + day7 + day8 
 
 var appointmetMade = prompt("Trying to find out average appointment made on a daily bases. Total appointment made was 202 total days worked was 20. Please input how much appointment made.")
 
-var daysWorked = prompt("Please input number of days worked") 
+var daysWorked = prompt("Please input number of days worked")
+
+alert("Averge daily appointment booked for a 20 day period is" + averageAppointment) 
 
 console.log("The daily average appointment that was made" + " " + averageAppointment) 
 
