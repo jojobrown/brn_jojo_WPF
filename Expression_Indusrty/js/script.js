@@ -2,4 +2,6 @@
 //May 16, 2013
 //Expression_Industry
 
-//Finding out the average of meeting with clients went on for a 12 month period
+//Booking appointments for Account Excutive on a weekly average, than do a monthly average
+
+
