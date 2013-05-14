@@ -17,5 +17,7 @@ var hours = prompt("Please enter hours worked")
 
 alert("How many bags used" + c  + "bags");
 
+console.log(c + "bags")
+
 
 
