@@ -13,7 +13,7 @@ var firstName = prompt("Just want to gather some get your name before we start. 
 
 var lastName = prompt("Please fill in your last name?")
 
-alert("Your name is" + firstName + lastName)
+alert("Your name is" + " " + firstName + " " + lastName)
 
 console.log("Total of balls left that won't go evenly in the bags are" + " " + ballsLeft)
 
