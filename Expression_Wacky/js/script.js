@@ -9,7 +9,11 @@ var ballBags = [10, 8, 6, 12, 9, 7, 4, 14]
 
 var ballsLeft = (ballBags[0] + ballBags[1] + ballBags[2] + ballBags[3] + ballBags[4] + ballBags[5] +ballBags[6] + ballBags[7])%8
 
-var lastName = prompt("Just want to gather some get your name before we start." /n "Please enter your first name.")
+var firstName = prompt("Just want to gather some get your name before we start. Please enter your first name.")
+
+var lastName = prompt("Please fill in your last name?")
+
+alert("Your name is" + firstName + lastName)
 
 console.log("Total of balls left that won't go evenly in the bags are" + " " + ballsLeft)
 
