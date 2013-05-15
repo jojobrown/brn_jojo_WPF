@@ -7,7 +7,7 @@
 
 var ballBags = [10, 8, 6, 12, 9, 7, 4, 14]
 
-var ballsLeft = (ballBags[0] + ballBags[1] + ballBags[2] + ballBags[3] + ballBags[4] + ballBags[5] +ballBags[6] + ballBags[7])%8
+var total = (ballBags[0] + ballBags[1] + ballBags[2] + ballBags[3] + ballBags[4] + ballBags[5] +ballBags[6] + ballBags[7])%8
 
 console.log(ballsLeft)
 
