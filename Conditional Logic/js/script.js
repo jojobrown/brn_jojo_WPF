@@ -1,6 +1,6 @@
 //Conditional Logic - With an Expressions
 
-var kidHeight = 52;
+var kidHeight = 45;
 var minHeight = 48;
 
 //if the child is old enough, print in the console "you can ride!"
