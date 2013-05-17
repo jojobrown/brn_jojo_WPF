@@ -1,4 +1,4 @@
-//Conditional Logic - With an Expressions
+//Conditional Logic - else if
 
 var kidHeight = 45;
 var minHeight = 48;
