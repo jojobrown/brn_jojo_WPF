@@ -1,4 +1,4 @@
-//Conditional Logic - Relational Expressions
+//Conditional Logic - With an Expressions
 
 var kidHeight = 40;
 var minHeight = 48
