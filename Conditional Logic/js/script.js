@@ -1,6 +1,6 @@
 //Conditional Logic - With an Expressions
 
-var kidHeight = 48;
+var kidHeight = 52;
 var minHeight = 48;
 
 //if the child is old enough, print in the console "you can ride!"
@@ -8,8 +8,7 @@ var minHeight = 48;
 if(kidHeight > minHeight){
 	//code performed if condition is true
 	console.log("You can ride the coaster!")
-}
-if(kidHeight <= minHeight){
+}else{
 	console.log("Sorry kid, you've got some growing to do first!");
 
 }
