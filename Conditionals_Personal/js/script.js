@@ -17,6 +17,9 @@ if(disneyWorld > vacationBudget){
 
 var winTrip = prompt("Please answer the question to win a trip to Disney Land. What state is Disney Land in?")
 var reAnswer = prompt("Are you sure you picked" + " " + winTrip + "? Please anwer yes or no.")
+
+var wintrip = Califorinia ("You win")
+alert(winTrip = Califorinia)
 console.log("The state you chose was" + " " + winTrip)
 
 
