@@ -7,3 +7,5 @@
 var vacationBudget = 5000;
 var disneyWorld = 5895;
 var disneyLand = 4620;
+
+//going to do the equation to see if it works
