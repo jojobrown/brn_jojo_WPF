@@ -12,8 +12,7 @@ var disneyLand = 5001;
 
 if(disneyWorld > vacationBudget){
 	console.log("Then we will go to Disney Land!!")
-}
-if(disneyLand > vacationBudget){
+}else if(disneyLand > vacationBudget){
 	console.log("Then we will stay home and play toourist!!!")
 }
 
