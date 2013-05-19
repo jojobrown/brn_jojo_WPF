@@ -5,7 +5,7 @@
 //Planning a vacation want to see if we have enough money to go Disney World or Disney Land
 
 var vacationBudget = 5000;
-var disneyWorld = 4987;
+var disneyWorld = 5001;
 
 //going to do the equation to see if it works
 
