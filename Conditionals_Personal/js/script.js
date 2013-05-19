@@ -6,7 +6,7 @@
 
 var vacationBudget = 5000;
 var disneyWorld = 5895;
-var disneyLand = 4780;
+var disneyLand = 5001;
 
 //going to do the equation to see if it works
 
@@ -17,3 +17,4 @@ if(disneyLand > vacationBudget){
 	console.log("Then we will stay home and play toourist!!!")
 }
 
+//change price of Disney Land to offset to see if it works
