@@ -16,5 +16,8 @@ if(disneyWorld > vacationBudget){
 }
 
 var winTrip = prompt("Please answer the question to win a trip to Disney Land. What state is Disney Land in?")
+var reAnswer = prompt("Are you sure you picked" + " " + winTrip + "? Please anwer yes or no.")
+console.log("The state you chose was" + " " + winTrip)
+
 
 //change price of Disney World to offset to see if it works
