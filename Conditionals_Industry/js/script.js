@@ -27,7 +27,9 @@ var name = prompt("We are looking for people and their height? Please enter you 
 
 var height = prompt("Now that we have your name, could you please enter your height?")
 
-alert("We see you name is" + " " + name + " " +", and you are" + " " + height + " " + ". Thank you for all your help!!") 
+alert("We see you name is" + " " + name + " " +", and you are" + " " + height + " " + ". Thank you for all your help!!")
+
+console.log(name + height + " " + "Thank you for you help in this survey" + " " + name + " " +". ") 
 	
 	
 
