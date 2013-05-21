@@ -2,6 +2,8 @@
 // May 23, 2013
 // Conditionals_Industry
 
+//want to apply for a loan to open our business but credit scores makes a big difference on getting a loan or not
+
 var creditScoreLoan = 700
 var clientCreditScore = 650
 var scoreWithCosigner = 600
