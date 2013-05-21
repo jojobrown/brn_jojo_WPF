@@ -15,6 +15,7 @@ if(clientCreditScore > creditScoreLoan){
 	//we can get the loan but with some help
 	console.log("We still get the loan but with help and a partner!!")
 }else{
+	//we don't get nothing because we don't qualify
 	console.log("We go home and figure something else to do!!")
 }
 	
