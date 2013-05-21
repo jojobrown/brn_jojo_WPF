@@ -2,12 +2,12 @@
 // May 23, 2013
 // Conditionals_Industry
 
-var
-var
-var
+var projectBase = 5000
+var clientBudget = 4000
+var sponsorHelp = 1000
 
-if(){
-	
+if(projectBase > clientBudget){
+	console.log("We have to cancel the project!!")
 }else if(){
 	
 }else{
