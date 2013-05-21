@@ -18,6 +18,8 @@ if(clientCreditScore > creditScoreLoan){
 	//we don't get nothing because we don't qualify
 	console.log("We go home and figure something else to do!!")
 }
+
+//Now we can start our prompts
 	
 	
 
