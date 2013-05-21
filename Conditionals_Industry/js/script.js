@@ -29,7 +29,7 @@ var height = prompt("Now that we have your name, could you please enter your hei
 
 alert("We see you name is" + " " + name + " " +", and you are" + " " + height + " " + ". Thank you for all your help!!")
 
-console.log(name + " " + height + " " + ". Thank you for you help in this survey" + " " + name + " " +". ") 
+console.log(name + " is " + height + " " + ". Thank you for you help in this survey" + " " + name + " " +". ") 
 	
 	
 
