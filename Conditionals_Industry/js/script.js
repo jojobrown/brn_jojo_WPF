@@ -8,8 +8,8 @@ var scoreWithCosigner = 600
 
 if(clientCreditScore > creditScoreLoan){
 	console.log("We got the loan and open our business!!")
-}else if(){
-	
+}else if(clientCreditScore > scoreWithCosigner){
+	console.log("We still get the loan but with help and a partner!!")
 }else{
 	
 }
