@@ -5,7 +5,7 @@
 //want to apply for a loan to open our business but credit scores makes a big difference on getting a loan or not
 
 var creditScoreLoan = 700
-var clientCreditScore = 650
+var clientCreditScore = 500
 var scoreWithCosigner = 600
 
 if(clientCreditScore > creditScoreLoan){
