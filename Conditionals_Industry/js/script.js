@@ -2,12 +2,12 @@
 // May 23, 2013
 // Conditionals_Industry
 
-var projectBase = 5000
-var clientBudget = 4000
-var sponsorHelp = 1000
+var creditScoreLoan = 700
+var clientCreditScore = 650
+var scoreWithCosigner = 600
 
-if(projectBase > clientBudget){
-	console.log("We have to cancel the project!!")
+if(clientCreditScore > creditScoreLoan){
+	console.log("We got the loan and open our business!!")
 }else if(){
 	
 }else{
