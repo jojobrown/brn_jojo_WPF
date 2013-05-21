@@ -23,7 +23,9 @@ if(clientCreditScore > creditScoreLoan){
 
 var name = prompt("We are looking for people and their height? Please enter you name, First and Last please.")
 
-//just taking a survey on peoples name and height 
+//just taking a survey on peoples name and height
+
+var height = prompt("Now that we have your name, could you please enter your height?") 
 	
 	
 
