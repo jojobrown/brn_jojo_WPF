@@ -22,5 +22,7 @@ console.log(dinner)
 
 //going to start the prompt that will be similair to the top
 
-var dinnerChoice = prompt("We are taking a survey, which would you perfer, Red Lobster or McDonalds? Pleas enter your answer below.")
+var dinnerChoice = prompt("We are taking a survey, where would you perfer to eat dinner at, Red Lobster or Outback Steak House? Pleas enter your answer below.")
+
+var nameFirst = prompt("Now that we know where you want to eat dinner at, please enter your first dinner.")
 console.log(dinnerChoice)		
