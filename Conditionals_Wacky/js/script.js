@@ -2,11 +2,11 @@
 //Conditionals_Wacky
 //May 23, 2013
 
-var arriveHome = 6 pm;
+var arriveHome = 6;
 var dinner; 
 
-if(arriveHome <= 7 pm){
-	console.log("We get to eat a Red Lobsters!!")
+if(arriveHome <= 7){
+	console.log("We get to eat a Red Lobsters!!");
 }else{
-
+    console.log("We eat Mcdonalds for dinner.");
 }		
