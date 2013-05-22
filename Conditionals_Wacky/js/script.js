@@ -11,6 +11,7 @@ if(arriveHome <= 7){
 	//if we come home before 7 then we can eat at Red Lobster
 	console.log("We get to eat at Red Lobsters!!");
 }else{
+	//if not we are going to Mcdonalds
     console.log("We eat Mcdonalds for dinner.");
 }
 
