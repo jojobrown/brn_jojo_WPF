@@ -2,7 +2,7 @@
 //Conditionals_Wacky
 //May 23, 2013
 
-var arriveHome = 6;
+var arriveHome = 9;
 var dinner; 
 
 if(arriveHome <= 7){
