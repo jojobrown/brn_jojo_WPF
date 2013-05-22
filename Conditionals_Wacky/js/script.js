@@ -20,4 +20,6 @@ if(arriveHome <= 7){
 dinner = (arriveHome <= 7) ? "We get to eat at Red Lobsters!!" : "We eat Mcdonalds for dinner."
 console.log(dinner)
 
-//going to start the prompt that will be similair to the top		
+//going to start the prompt that will be similair to the top
+
+var dinnerChoice = prompt("We are taking a survey, which would you perfer, Red Lobster or McDonalds? Pleas enter your answer below.")		
