@@ -4,7 +4,7 @@
 
 //decideing where to eat dinner it will depends on what time we get home.
 
-var arriveHome = 9;
+var arriveHome = 6;
 var dinner; 
 
 if(arriveHome <= 7){
@@ -12,14 +12,15 @@ if(arriveHome <= 7){
 	console.log("We get to eat at Red Lobsters!!");
 }else{
 	//if not we are going to Mcdonalds
-    console.log("We eat Mcdonalds for dinner.");
+    console.log("We are eating Mcdonalds for dinner.");
 }
 
 //inputting the ternary operator
 
-dinner = (arriveHome <= 7) ? "We get to eat at Red Lobsters!!" : "We eat Mcdonalds for dinner."
+dinner = (arriveHome <= 7) ? "We get to eat at Red Lobsters!!" : "We are eating Mcdonalds for dinner."
 console.log(dinner)
 
 //going to start the prompt that will be similair to the top
 
-var dinnerChoice = prompt("We are taking a survey, which would you perfer, Red Lobster or McDonalds? Pleas enter your answer below.")		
+var dinnerChoice = prompt("We are taking a survey, which would you perfer, Red Lobster or McDonalds? Pleas enter your answer below.")
+console.log(dinnerChoice)		
