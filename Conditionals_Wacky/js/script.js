@@ -5,7 +5,7 @@
 var arriveHome = 6 pm;
 var dinner; 
 
-if(){
+if(arriveHome <= 7 pm){
 	
 }else{
 
