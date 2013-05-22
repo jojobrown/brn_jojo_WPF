@@ -15,5 +15,9 @@ if(arriveHome <= 7){
     console.log("We eat Mcdonalds for dinner.");
 }
 
+//inputting the ternary operator
+
 dinner = (arriveHome <= 7) ? "We get to eat at Red Lobsters!!" : "We eat Mcdonalds for dinner."
-console.log(dinner)		
+console.log(dinner)
+
+//going to start the prompt that will be similair to the top		
