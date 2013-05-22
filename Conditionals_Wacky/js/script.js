@@ -2,6 +2,8 @@
 //Conditionals_Wacky
 //May 23, 2013
 
+//decideing where to eat dinner it will depends on what time we get home.
+
 var arriveHome = 9;
 var dinner; 
 
