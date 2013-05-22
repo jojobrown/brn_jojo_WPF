@@ -11,4 +11,5 @@ if(arriveHome <= 7){
     console.log("We eat Mcdonalds for dinner.");
 }
 
-dinner = (arriveHome <= 7) ? "We get to eat at Red Lobsters!!" : "We eat Mcdonalds for dinner."		
+dinner = (arriveHome <= 7) ? "We get to eat at Red Lobsters!!" : "We eat Mcdonalds for dinner."
+console.log(dinner)		
