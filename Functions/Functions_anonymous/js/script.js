@@ -1,5 +1,5 @@
 // Function = Anonymous Function
 
-function(){
-	
+var functionName = function(){
+	//code to run
 }
