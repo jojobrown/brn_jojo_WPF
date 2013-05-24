@@ -1,1 +1,5 @@
-// JavaScript Document
+// Function = Anonymous Function
+
+function(){
+	
+}
