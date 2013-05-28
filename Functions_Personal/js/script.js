@@ -5,9 +5,10 @@
 // How many ounces of milk does a baby need
 // using months of baby till 12 months
 
-function ouncesMilk(){
-	var babiesAge = 4
+ouncesMilk(5)//argument
+ouncesMilk(8)
+
+function ouncesMilk(babiesAge){//parameter
 	var ounces = babiesAge * 2
 	console.log(ounces)
 }
-ouncesMilk();
