@@ -10,5 +10,5 @@ ouncesMilk(8)
 
 function ouncesMilk(babiesAge){//parameter
 	var ounces = babiesAge * 2
-	console.log(ounces)
+	console.log("The baby drinks" + " " + ounces + " " + "ounces of milk due to her age.")
 }
