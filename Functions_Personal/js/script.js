@@ -15,3 +15,4 @@ function ouncesMilk(babiesAge){//parameter
 
 //inputting prompt
 var nameInitials = prompt("Just to make sure you came to the right website please enter you initials in capital letters.")
+var ouncesWater = prompt("To conclude this survery please tell me about how many oucnes of water do you dirnk a day? Please enter it below it ounces")
