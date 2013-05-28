@@ -10,3 +10,4 @@ function ouncesMilk(){
 	var ounces = babiesAge * 2
 	console.log(ounces)
 }
+ouncesMilk();
