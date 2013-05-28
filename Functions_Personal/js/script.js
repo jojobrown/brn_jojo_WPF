@@ -7,5 +7,6 @@
 
 function ouncesMilk(){
 	var babiesAge = 6
-	var ouncesMilk = babiesAge * 2
+	var ounces = babiesAge * 2
+	console.log(ounces)
 }
