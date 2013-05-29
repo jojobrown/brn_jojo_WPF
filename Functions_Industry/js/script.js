@@ -7,11 +7,7 @@
 function clientAccepting(){
 	var fiftySpots = 100
 	var clientBudget = 200 
-	if(fiftySpots < clientBudget){
-	consol.log("We will take it")
-	}else{
-	console.log("We have to reconsider")	
-	}
-	console.log()	
+	var clientAccepts = clientBudget > fiftySpots
+	console.log(clientAccepts)	
 }
-clientAccepting()	
+clientAccepting();	
