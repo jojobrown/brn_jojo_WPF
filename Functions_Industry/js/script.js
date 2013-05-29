@@ -14,4 +14,4 @@ function clientAccepting(){
 	}
 	console.log()	
 }
-	
+clientAccepting()	
