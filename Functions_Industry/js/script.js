@@ -10,7 +10,7 @@ function clientAccepting(){
 	if(fiftySpots < clientBudget){
 	consol.log("We will take it")
 	}else{
-		
+	console.log("We have to reconsider")	
 	}
 	console.log()	
 }
