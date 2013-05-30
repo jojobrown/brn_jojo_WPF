@@ -11,3 +11,5 @@ var totalToys = function(balls, dolls, cars){
 }
 
 totalToys(15, 21, 19)
+
+console.log(toys)
