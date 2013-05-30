@@ -6,5 +6,5 @@
 // Using Anonymous Functions
 
 var totalToys = function(balls, dolls, cars){
-	
+	var toys = balls + dolls + cars
 }
