@@ -7,7 +7,7 @@
 
 var totalToys = function(balls, dolls, cars){
 	var toys = balls + dolls + cars;
-	
+	return toys;
 }
 
 totalToys(15, 21, 19)
