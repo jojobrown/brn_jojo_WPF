@@ -12,6 +12,7 @@ function ouncesMilk(babiesAge){//parameter
 
 ouncesMilk(5)//argument
 ouncesMilk(8)
+ouncesMilk(7)
 
 //inputting prompt
 var nameInitials = prompt("Just to make sure you came to the right website please enter you initials in capital letters.")
