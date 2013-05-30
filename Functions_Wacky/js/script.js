@@ -13,3 +13,5 @@ var totalToys = function(balls, dolls, cars){
 var t = totalToys(15, 21, 19)
 
 console.log("There is a total of" + " " + t + " " + "toys.")
+
+var weatherTemp = prompt("Taking a survey on the temperture of the weather, could you please put in the temperture of the weather below")
