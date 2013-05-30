@@ -12,6 +12,7 @@ function clientAccepting(){
 }
 clientAccepting();
 
+
 var countingBugs = prompt("There was 3 ladybugs, 10 ants, 7 catipliers and 5 butterflies. Can you please tell me how many flies bugs we have and how many crawling ones i have? You can apply in the box below.")	
 
-var  
+  
