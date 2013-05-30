@@ -22,4 +22,4 @@ var firstName = prompt("Now could you please tell me you name.")
 
 alert("So we see that" + " " + firstName + " " + "is in" + " " + whereYouAt + " " + "and the temperture is" + " " + weatherTemp +".")
 
-console.log(alert)
+console.log("So we see that" + " " + firstName + " " + "is in" + " " + whereYouAt + " " + "and the temperture is" + " " + weatherTemp +".")
