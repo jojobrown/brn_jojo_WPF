@@ -5,6 +5,6 @@
 // There is a baby playing with her toys, she is trying to count her toys and seperate them
 // Using Anonymous Functions
 
-var totalToys = function(){
+var totalToys = function(balls, dolls, cars){
 	
 }
