@@ -10,6 +10,6 @@ var totalToys = function(balls, dolls, cars){
 	return toys;
 }
 
-totalToys(15, 21, 19)
+var c = totalToys(15, 21, 19)
 
-console.log(totalToys)
+console.log(c)
