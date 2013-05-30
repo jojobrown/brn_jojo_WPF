@@ -20,6 +20,8 @@ var bugsCounting = prompt("The first screen mentioned 10 bugs, do you remember t
 
 alert("You fisrt mentioned that we had" + " " + countingBugs + "." + "Then you remembered we had" + " " + bugsCounting +"." + "Thank you for your input and time.")
 
+console.log("You fisrt mentioned that we had" + " " + countingBugs + "." + "Then you remembered we had" + " " + bugsCounting +"." + "Thank you for your input and time.")
+
 	
 
   
